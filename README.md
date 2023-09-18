@@ -19,5 +19,9 @@ Schon fertig? Beantworten Sie diese Fragen:
 - `git clone <url>` kopiert ein vorhandes Repository von einer url auf die Festplatte
 - `git push` ...
 - `git pull` ...
+- `git merge` führt mehrere branches zusammen 
+- `git rebase` versetzt commit zum uhrsprung des branches zurück 
+- `git diff <Commit>` zeigt die unterschiede zwischen commits 
+-
 
 

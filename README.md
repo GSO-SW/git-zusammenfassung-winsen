@@ -17,7 +17,17 @@ Schon fertig? Beantworten Sie diese Fragen:
 
 ## git-Befehle
 - `git clone <url>` kopiert ein vorhandes Repository von einer url auf die Festplatte
-- `git push` ...
-- `git pull` ...
+- `git push` gibt die neusten Commits vom local in den Remote
+- `git pull` holt die neusten Commits vom remote und bringt die zum local. Der Stand vom local wird geupdated
+- `git config` get und setzt die Optionen für das repository 
+- `git init`erstellt ein .git ordner und das local Repository
+- `git status` zeigt den Status der staging area
+- `git add` added Dateien in die staging area
+- `git log` zeigt die Historie der ganzen Commits an
+- `git commit` erstellt ein Commit und wird in die Repository hinzugefügt
+- `git branch` erstelle einen branch`
+- `branch` ein Namensschild für bestimmte Commits
+- `git checkout` verschiebt den HEADER zu Commits oder Branches
+
 
 

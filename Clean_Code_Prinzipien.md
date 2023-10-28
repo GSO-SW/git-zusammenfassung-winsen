@@ -8,8 +8,7 @@ Keep it simple stupid
 - Einfache Fehlerbehebung
 
 ### Negativ-Beispiel
-![KISS_Negativ](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/65eb954d-24dd-4d5f-9235-4c8f2c812f38)
-
+![KISS_Negativ_neu](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/2c6e4a41-3c36-419f-b1e1-51f940034bb6)
 
 ### Positiv-Beispiel
 ![KISS_Positiv](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/7a930781-0035-40fa-865f-7aaf2da7cb43)
@@ -21,7 +20,7 @@ Don't Repeat Yourself
 - Änderungen nur an einer Stelle
 	
 ### Negativ-Beispiel
-![DRY_Negativ](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/417c7de9-3040-4944-9780-d091b83cf892)
+![DRY_Negativ_neu](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/21032484-8b37-43e1-bc1e-89ffc4d433a8)
 
 
 ### Positiv-Beispiel 
@@ -36,7 +35,7 @@ You Ain't Gonna Need It
 - Verhindert überflüssige Funktionalitäten, die nie benutze werden könnten
 
 ### Negativ-Beispiel
-![YAGNI_Negativ](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/49e68367-04b2-4329-9901-273ab4bc158b)
+![YAGNI_Negativ_neu](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/ff08bc41-8fcb-4fb4-9a88-554349226ba9)
 
 ### Positiv-Beispiel 
 ![YAGNI_Positiv](https://github.com/GSO-SW/git-zusammenfassung-winsen-rene/assets/145109199/dda18792-7e95-4af5-824e-4c04706e99a3)

@@ -1,6 +1,7 @@
 #Prinzipien
 
-##KISS
+<span style="font-size: larger;">KISS</span>
+
 Keep it simple stupid
 - Unnötige Komplexität im Code vermeiden
 - Problemlösung so simple wie mölgich zu lösen

@@ -22,6 +22,10 @@
 - `git pull` 		holt die neusten Commits vom remote und bringt die zum local. Der Stand vom local wird geupdated
 - `git clone` 		klont, mithilfe eines Links, ein Repository in GitHub und fügt es zu dem local dazu.
 
+### Git-Befehle zurücksetzen
+- `git reset`		Der Commit, den man resetten will, muss vor diesem Commit ein branch sein oder den Hashwert vom vorherigen Commit. Für Local-Repositories.
+- `git revert`		[git revert [Branchname (meistend main)]]. Für Remote-Repositories.
+
 ## Merge Konflikte beheben
 -	Gucken was in der Beschreibung steht. Meistens muss man selber den Merge machen.
 -	Danach git add  und dann git commit
